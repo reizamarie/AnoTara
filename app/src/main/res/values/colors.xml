@@ -1,0 +1,9 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
+    <color name="dark_green">#2E7D32</color>
+    <color name="light_yellow">#F7F1D2</color>
+    <color name="brown">#3C2702</color>
+    <color name="text_main">#3C2702</color>
+</resources>

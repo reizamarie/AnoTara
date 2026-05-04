@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:padding="24dp">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="305dp"
+        android:layout_height="265dp"
+        android:src="@drawable/girl"
+        android:layout_marginTop="265dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/Gala"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="273dp"
+        android:button="@drawable/checkbox_brown_selector"
+        android:buttonTint="@null"
+        android:fontFamily="@font/onelittlefont_regular"
+        android:paddingStart="8dp"
+        android:text="Gala with the friends"
+        android:textSize="15sp"
+        app:buttonTint="@null"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.558"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/Drive"
+        android:layout_width="147dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="232dp"
+        android:button="@drawable/checkbox_brown_selector"
+        android:buttonTint="@null"
+        android:fontFamily="@font/onelittlefont_regular"
+        android:paddingStart="8dp"
+        android:text="Late Night Drive"
+        android:textSize="15sp"
+        app:buttonTint="@null"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.527"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/introDes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Discover different ways to keep the good days close. Pin
+your favorite spots, tuck your snaps into jars, and
+    capture special moments dear to you."
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/introText2" />
+
+    <Button
+        android:id="@+id/nextBtn2"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#6b9a64"
+        android:fontFamily="@font/onelittlefont_regular"
+        android:text="Next"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:cornerRadius="0dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/introDes"
+        app:strokeColor="#3f5d3a"
+        app:strokeWidth="2dp" />
+
+    <TextView
+        android:id="@+id/introText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="164dp"
+        android:fontFamily="@font/onelittlefont_regular"
+        android:text="ANO TARA?"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/Gawa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="192dp"
+        android:paddingStart="8dp"
+        android:button="@drawable/checkbox_brown_selector"
+        android:buttonTint="@null"
+        android:fontFamily="@font/onelittlefont_regular"
+        android:text="Gawa Mobile App"
+        android:textSize="15sp"
+        app:buttonTint="@null"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/introText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/onelittlefont_regular"
+        android:text="One Step a time?"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="480dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

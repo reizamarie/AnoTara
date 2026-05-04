@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Brown filled box -->
+    <item>
+        <shape>
+            <size
+                android:width="20dp"
+                android:height="20dp" />
+
+            <solid android:color="#3C2702" />
+
+            <corners android:radius="0dp" />
+        </shape>
+    </item>
+
+    <!-- White check -->
+    <item
+        android:drawable="@drawable/ic_check_white"
+        android:gravity="center_vertical" />
+
+</layer-list>

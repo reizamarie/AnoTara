@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Ano, Tara?</string>
+    <string name="Terms">
+
+Terms and Conditions
+        \n\nBy using our app, you agree to the following terms and conditions. Please read them carefully before accessing or using the services.
+
+\n\n1. Eligibility
+\nTo use this app, you must be at least 13 years old. By accessing and using the app, you confirm that you meet this requirement.
+
+\n\n2. Account Creation and Use
+\nYou may be required to create an account to access certain features (e.g., profile management, personalized experience). You agree to provide accurate and complete information during registration and keep your account details up to date.
+
+        \n\n3. User Conduct
+\nYou agree not to engage in any behavior that is harmful, disruptive, or illegal. This includes spamming, impersonation, or any action that interferes with the normal functioning of the app.
+
+\n\n4. Privacy and Data Collection
+\nWe collect data related to your use of the app to improve your experience. This includes profile information, app activity, and other usage data. Please refer to our Privacy Policy for more details on how we handle your data.
+
+\n\n5. Content Ownership
+\nAll content within the app (including logos, images, text, and other intellectual property) is owned by us or our licensors and is protected by copyright laws. You are not allowed to use this content without permission.
+
+\n\n6. Limitation of Liability
+\nThe app is provided "as is" without warranties of any kind. We are not responsible for any damages arising from your use or inability to use the app.
+
+
+\n\n7. Real-World Activities and Assumption of Risk
+\nThe primary goal of this app is to encourage self-exploration, personal growth, and the discovery of new horizons. Participation in any real-world activities, including map-based "quests" or exploring new locations, is completely voluntary. We do not obligate or force any user to undertake these activities.
+\nBy using the apps map and quest features, you acknowledge that it is your sole responsibility to use the app wisely and safely. You agree to remain aware of your physical surroundings, exercise common sense, and obey all local pedestrian, traffic, and safety laws. We are not liable for any accidents, personal injury, property damage, or other incidents you may face while using the app or completing quests in the real world. Your safety is your responsibility.
+
+\n\n8. Termination
+        \nWe reserve the right to suspend or terminate your account for violating these terms, including disruptive behavior or misuse of the app.
+        \n\n9. Change to Terms
+        \n\nThese terms may be updated periodically. We will notify you of any significant changes. Your continued use of the app after changes have been made constitutes your acceptance of those changes.
+
+\n\nPrivacy Policy
+
+\nWe value your privacy and are committed to protecting your personal information. Here’s how we collect, use, and store your data.
+
+\n\n1. Information We Collect
+
+\nAccount Information: Name, email address, and any other details you provide during registration.
+
+\nActivity Data: Information about your interactions within the app, including content you view, share, or engage with.
+
+\nDevice Information: We may collect data about the device you use to access the app (e.g., device model, operating system).
+
+\n\n2. How We Use Your Data
+\nTo personalize your experience and provide you with relevant content.
+
+\nTo send you notifications, promotional materials, or updates about your account.
+
+\nTo improve the functionality and performance of the app.
+
+\n\n3. Data Sharing
+\nWe do not sell your data. However, we may share your data with trusted third-party partners (e.g., app service providers) to improve the app’s performance, provided they agree to maintain the confidentiality of your data.
+
+\n\n4. Data Security
+\nWe implement measures to protect your personal data. However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.
+
+\n\n5. Your Rights
+\nYou have the right to access, modify, or delete your data at any time. Please contact us through the app if you wish to make any changes.
+
+\n\n6. Cookies
+\nThe app uses cookies to enhance your experience. You can control cookie settings through your device’s settings.
+    </string>
+</resources>

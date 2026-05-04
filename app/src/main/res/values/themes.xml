@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.AnoTara" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item
+            name="android:windowNoTitle">true</item>
+        <item
+            name="android:windowActionBar">false</item>
+    </style>
+
+    <style name="Theme.AnoTara" parent="Base.Theme.AnoTara">
+        <item name="android:textColor">@color/text_main</item>
+    </style>
+</resources>

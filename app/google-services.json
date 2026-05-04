@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "489543671717",
+    "project_id": "signupapp-924cc",
+    "storage_bucket": "signupapp-924cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489543671717:android:d4330ad4c05164ef25d24c",
+        "android_client_info": {
+          "package_name": "com.example.anotara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489543671717-145huhuu1sr2jo3d7e1g8sdur11p3fbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYSUA46odCUqrHFYLMdyB0MIJIWV8XbLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489543671717-145huhuu1sr2jo3d7e1g8sdur11p3fbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489543671717:android:264770f208edbfa925d24c",
+        "android_client_info": {
+          "package_name": "com.example.signupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489543671717-8f8k8d4f9tcusj9a5130mt97g909kr41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signupapp",
+            "certificate_hash": "f07775c6812343b7da3dc1186aed8ad961105e1b"
+          }
+        },
+        {
+          "client_id": "489543671717-145huhuu1sr2jo3d7e1g8sdur11p3fbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYSUA46odCUqrHFYLMdyB0MIJIWV8XbLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489543671717-145huhuu1sr2jo3d7e1g8sdur11p3fbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
